@@ -1,0 +1,13 @@
+﻿experiment,split,folder_count,missing_classes,empty_classes
+Stratified,train,39,,
+Stratified,val,39,,
+Stratified,test,39,,
+LODO-1_Images2021,train,39,,
+LODO-1_Images2021,val,39,,
+LODO-1_Images2021,test,39,,ں; ھ
+LODO-2_CFRT,train,39,,
+LODO-2_CFRT,val,39,,
+LODO-2_CFRT,test,39,,ں
+LODO-3_UAlpha40,train,39,,ں
+LODO-3_UAlpha40,val,39,,ں
+LODO-3_UAlpha40,test,39,,ج; ڑ; ہ

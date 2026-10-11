@@ -1,0 +1,50 @@
+{
+    "collection_time": "2026-10-11T02:06:14.473168",
+    "python_version": "3.11.15",
+    "operating_system": "Linux-6.5.0-44-generic-x86_64-with-glibc2.38",
+    "architecture": "x86_64",
+    "processor": "x86_64",
+    "software_versions": {
+        "torch": "2.4.1+cu121",
+        "torchvision": "0.19.1+cu121",
+        "torchaudio": "2.4.1+cu121",
+        "timm": "1.0.19",
+        "numpy": "2.4.4",
+        "pandas": "2.2.3",
+        "scipy": "1.17.1",
+        "scikit-learn": "1.5.2",
+        "Pillow": "12.2.0",
+        "opencv-python": "Not installed",
+        "opencv-contrib-python": "Not installed",
+        "mediapipe": "Not installed",
+        "albumentations": "1.4.24",
+        "matplotlib": "3.9.2",
+        "seaborn": "Not installed",
+        "fvcore": "0.1.5.post20221221",
+        "iopath": "0.1.10",
+        "tqdm": "4.68.3",
+        "tensorboard": "Not installed",
+        "jupyter": "Not installed",
+        "jupyterlab": "Not installed",
+        "notebook": "Not installed",
+        "ipykernel": "7.3.0"
+    },
+    "pytorch_environment": {
+        "torch_version": "2.4.1+cu121",
+        "cuda_available": true,
+        "pytorch_cuda_version": "12.1",
+        "cudnn_version": 90100,
+        "cudnn_deterministic": false,
+        "cudnn_benchmark": false
+    },
+    "gpu_information": [
+        {
+            "gpu_id": 0,
+            "gpu_name": "Tesla P40",
+            "memory_GB": 22.37,
+            "compute_capability": "6.1"
+        }
+    ],
+    "nvidia_smi": "Tesla P40, 555.42.02, 23040 MiB",
+    "nvcc_version": "Unavailable: [Errno 2] No such file or directory: 'nvcc'"
+}

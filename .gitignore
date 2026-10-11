@@ -1,0 +1,66 @@
+# Datasets
+Combined-datasets-splitts/
+PSL_CFRT/
+PSL_Images_2021/
+PSL_Ualpha40/
+LODO-1_CFRT_UAlpha40_to_Images2021/
+LODO-2_UAlpha40_Images2021_to_CFRT/
+LODO-3_CFRT_Images2021_to_UAlpha40/
+
+# Results and checkpoints
+revision_results/
+extracted_pth_models/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+
+# Images and videos
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+*.tif
+*.tiff
+*.mp4
+*.avi
+*.mov
+
+# Temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*
+*token*
+*secret*
+
+# Large generated files
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.zip
+*.tar
+*.tar.gz
+Untitled.ipynb
+
+# Detailed local image manifests
+dataset_audit_results/09_complete_image_manifest.csv
+dataset_audit_results/image_details.csv
+
+# Audit reports containing absolute local paths
+dataset_audit_results/cross_dataset_duplicates.csv
+dataset_audit_results/cross_split_duplicates.csv
+dataset_audit_results/same_split_duplicates.csv
+dataset_audit_results/empty_classes.csv
+requirements_full_environment.txt
