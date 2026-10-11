@@ -1,0 +1,13 @@
+﻿dataset,split_a,split_b,duplicate_hashes
+PSL_CFRT,train,val,0
+PSL_CFRT,train,test,0
+PSL_CFRT,val,test,0
+PSL_Images_2021,train,val,2
+PSL_Images_2021,train,test,7
+PSL_Images_2021,val,test,0
+PSL_Ualpha40,train,val,196
+PSL_Ualpha40,train,test,369
+PSL_Ualpha40,val,test,65
+Combined,train,val,198
+Combined,train,test,376
+Combined,val,test,65

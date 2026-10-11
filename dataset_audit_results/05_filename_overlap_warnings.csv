@@ -1,0 +1,13 @@
+﻿experiment,split_a,split_b,overlap_count,examples
+LODO-1_Images2021,train,val,0,
+LODO-1_Images2021,train,test,0,
+LODO-1_Images2021,val,test,0,
+LODO-2_CFRT,train,val,0,
+LODO-2_CFRT,train,test,0,
+LODO-2_CFRT,val,test,0,
+LODO-3_UAlpha40,train,val,0,
+LODO-3_UAlpha40,train,test,0,
+LODO-3_UAlpha40,val,test,0,
+Stratified,train,val,0,
+Stratified,train,test,0,
+Stratified,val,test,0,

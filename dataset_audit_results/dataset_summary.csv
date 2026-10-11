@@ -1,0 +1,5 @@
+﻿dataset,train,val,test,total,classes_train,classes_val,classes_test,corrupt
+PSL_CFRT,1293,192,396,1881,39,39,39,0
+PSL_Images_2021,1066,149,296,1511,39,39,39,0
+PSL_Ualpha40,16022,2286,4557,22865,39,39,39,0
+Combined,18381,2633,5250,26264,39,39,39,0
