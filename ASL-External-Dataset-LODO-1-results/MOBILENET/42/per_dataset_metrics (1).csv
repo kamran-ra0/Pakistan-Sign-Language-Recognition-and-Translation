@@ -1,0 +1,2 @@
+dataset,images,test_accuracy,macro_f1
+dorukdemirci_asl_alphabet,2427,0.1211372064276885,0.09007578955289071
