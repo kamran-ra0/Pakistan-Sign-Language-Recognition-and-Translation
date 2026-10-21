@@ -1,0 +1,3 @@
+dataset,images,test_accuracy,macro_f1
+dorukdemirci_asl_alphabet,497,0.9557344064386318,0.9557964081148992
+pradiptomondal_aslalphabets,435,0.8666666666666667,0.8682817397794178
